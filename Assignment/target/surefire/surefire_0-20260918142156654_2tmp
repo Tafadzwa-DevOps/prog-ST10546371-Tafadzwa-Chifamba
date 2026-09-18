@@ -1,0 +1,6 @@
+#surefire_0
+#Fri Sep 18 14:21:56 SAST 2026
+basedir=/Users/tefy/NetBeansProjects/Assignment
+localRepository=/Users/tefy/.m2/repository
+maven.ext.class.path=/Applications/Apache NetBeans.app/Contents/Resources/netbeans/java/maven-nblib/netbeans-eventspy.jar
+test=com.mycompany.assignment.LoginTest\#testStrPassword
